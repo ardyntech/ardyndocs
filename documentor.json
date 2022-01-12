@@ -1,63 +1,76 @@
 {
-  "title": "Ardyn Documentation",
-
-  "root": "https://raw.githubusercontent.com/ardyntech/ardyndocs/master",
-
-  "sections": [
-
-
-
-
-    {
-
-      "section": "Welcome",
-
-      "menus": [
-
-        {
-          "name": "Introduction",
-          "markdown": "intro.md",
-          "path": ""
-        },
-
-        {
-          "name": "Architecture",
-          "markdown": "architecture.md",
-          "path": ""
-        }
-
-      ]
-
-    },
-
-
-
-
-
-    {
-      "section": "Ardyn Soothsayer",
-
-      "menus": [
-
-        {
-          "name": "Introduction",
-          "markdown": "intro.md",
-          "path": "/ardynsoothsayer"
-        },
-
-        {
-          "name": "Properties",
-          "markdown": "properties.md",
-          "path": "/ardynsoothsayer"
-        }
-
-      ]
-    }
-
-
-
-
-
-  ]
-
-}
+    "title": "Ardyn Documentation",
+  
+    "logo": "https://github.com/ardyntech/ardyndocs/blob/master/images/ardyn.png?raw=true",
+  
+    "root": "https://raw.githubusercontent.com/ardyntech/ardyndocs/master",
+  
+    "sections": [
+  
+  
+  
+  
+      {
+  
+        "section": "Welcome",
+  
+        "menus": [
+  
+          {
+            "name": "Introduction",
+            "markdown": "intro.md",
+            "path": ""
+          },
+  
+          {
+            "name": "Architecture",
+            "markdown": "architecture.md",
+            "path": ""
+          }
+  
+        ]
+  
+      },
+  
+  
+  
+  
+  
+      {
+        "section": "ArdynSoothsayer",
+  
+        "menus": [
+  
+          {
+            "name": "Introduction",
+            "markdown": "intro.md",
+            "path": "/ardynsoothsayer"
+          },
+  
+          {
+            "name": "Properties",
+            "markdown": "properties.md",
+            "path": "/ardynsoothsayer"
+          }
+  
+        ]
+      },
+  
+      {
+        "section": "ArdynGateway",
+  
+        "menus": [
+  
+        ]
+  
+  
+      }
+  
+  
+  
+  
+  
+    ]
+  
+  }
+  
